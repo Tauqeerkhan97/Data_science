@@ -5,11 +5,10 @@ Welcome to my Data Science learning and project repository! This repository serv
 ##  Repository Objective
 The goal of this repository is to demonstrate a strong foundation in core Data Science methodologies—ranging from initial data collection and exploratory analysis to building, evaluating, and tuning predictive machine learning models.
 
----
 
 ##  Tech Stack & Skills Covered
 
-Programming Language:** Python 🐍
+Programming Language:** Python 
 Data Manipulation:** Pandas, NumPy
 Data Visualization:** Matplotlib, Seaborn
 Machine Learning (Scikit-Learn):** Regression, Classification, Clustering
