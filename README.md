@@ -49,5 +49,5 @@ Repository Structure
 └── requirements.txt        # Python dependencies
 
 All Details of this skill is available 
-Now We are Restart the journey
+
 
