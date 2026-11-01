@@ -48,6 +48,6 @@ Repository Structure
 ├── README.md               # Course documentation and overview
 └── requirements.txt        # Python dependencies
 
-All Details of this skill is available 
+All Details of this skill 
 
 
