@@ -47,7 +47,3 @@ Repository Structure
 │   └── 04_Machine_Learning_Models.ipynb
 ├── README.md               # Course documentation and overview
 └── requirements.txt        # Python dependencies
-
-All Details 
-
-
