@@ -5,3 +5,6 @@ markdown shortcut
 vs code pdf 
 markdown notebook
 markdown method
+markdown word
+markdown learning
+markdown details
